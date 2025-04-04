@@ -2,4 +2,4 @@
 
 ## This is a subheader for LearningGithub
 
-this is a plan text description
+This is an updated description.
